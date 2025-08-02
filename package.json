@@ -1,6 +1,6 @@
 {
   "name": "react-remote-observer",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "ID-based IntersectionObserver for React",
   "main": "dist/main.js",
   "types": "dist/main.d.ts",
@@ -25,12 +25,12 @@
   "homepage": "https://github.com/zDany08/react-remote-observer#readme",
   "devDependencies": {
     "@types/react": "^19.1.9",
-    "react": "^19.1.1",
-    "react-dom": "^19.1.1",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
     "typescript": "^5.9.2"
   },
   "peerDependencies": {
-    "react": "^19.1.1",
-    "react-dom": "^19.1.1"
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
   }
 }
